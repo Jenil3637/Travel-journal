@@ -1,0 +1,65 @@
+*{
+    font-family: "Nunito", sans-serif;
+    margin: 0%;
+    padding: 0%;
+}
+
+.navbar{
+    background-color: rgb(51, 175, 169);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    color: white;
+    font-size: 0.7rem;
+}
+
+.description{
+    margin-top: 4px;
+    font-size: smaller;
+}
+
+.Maps-link{
+    margin-left: 5px;
+    font-size: small;
+}
+
+.date{
+    margin-top: 8px;
+}
+
+.info-parent{
+    padding-top: 10px;
+}
+
+.Card{
+    display: flex;
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-left: 30px;
+}
+
+.info-card{
+    display: flex;
+    align-items: center;
+}
+
+.location-dot{
+    color:  rgb(51, 175, 169);
+    font-size: 0.9rem;
+    margin-right: 5px;
+}
+
+
+.img{
+    width: 135px;
+    height: 180px;
+    border-radius: 4px;
+    margin-right: 20px;
+    object-fit: cover;
+}
+
+.earth{
+    color: white;
+    margin-right: 10px;
+}
